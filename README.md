@@ -12,7 +12,7 @@ The bump sensors are also kept in front of the line sensor and spaced apart, all
 
 ![image](https://github.com/user-attachments/assets/7e6b0ac0-63c9-472e-9666-9121b3de2a15)
 
-Add figure 2 here
+![image](https://github.com/user-attachments/assets/7770e99f-57cf-4829-b8a6-7f3bf5a5d9b2)
 
 ### Electrical Design
 
