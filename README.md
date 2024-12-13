@@ -23,7 +23,7 @@ This controller also sends outputs as PWM control signals for two DC motors and 
 
 A visual of the wiring schematic is listed in figure 3 below. 
 
-Add figure 3 here
+![image](https://github.com/user-attachments/assets/55e9c9fc-e0d8-4340-a8ef-9c01f2a5273f)
 
 ## Appendix
 ## Appendix A: Detailed Drawing of Sensor Array
