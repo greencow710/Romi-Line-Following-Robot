@@ -27,6 +27,7 @@ A visual of the wiring schematic is listed in figure 3 below.
 
 ### Programming Structure
 
+![image](https://github.com/user-attachments/assets/c8509f6c-4956-4eb4-91d6-7afce277ff25)
 
 
 ## Appendix
