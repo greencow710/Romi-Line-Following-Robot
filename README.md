@@ -10,7 +10,7 @@ For the line sensor, we tested distances and angles with the best resolution and
 
 The bump sensors are also kept in front of the line sensor and spaced apart, allowing the Romi to “bump” into the wall and straighten itself out before attempting to circumvent it. This also meant that the mount had to be able to take the impact force from collision, requiring structural rigidity.  The detailed drawing is included in Appendix A.
 
-![Alt Text](https://drive.google.com/file/d/1NAwpVbv4ochdnGMCFlY0L_VALA6fhDVE/view?usp=drive_link)
+![image](https://github.com/user-attachments/assets/7e6b0ac0-63c9-472e-9666-9121b3de2a15)
 
 Add figure 2 here
 
