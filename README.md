@@ -28,5 +28,6 @@ Add figure 3 here
 ## Appendix
 ## Appendix A: Detailed Drawing of Sensor Array
 
-Place image here
+![image](https://github.com/user-attachments/assets/b9f6d3fa-27e4-4acc-a1dc-1ba93b7508db)
+
 
