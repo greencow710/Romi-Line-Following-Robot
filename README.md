@@ -29,6 +29,7 @@ A visual of the wiring schematic is listed in figure 3 below.
 
 ![image](https://github.com/user-attachments/assets/c8509f6c-4956-4eb4-91d6-7afce277ff25)
 
+![image](https://github.com/user-attachments/assets/d1d154f4-f8c1-4985-979e-f74d7ea55dd8)
 
 ## Appendix
 ### Appendix A: Detailed Drawing of Sensor Array
