@@ -61,25 +61,5 @@ class Encoder:
             @details
         '''
         self.position = 0
-
-
-if __name__ == '__main__':
-    
-   
-    
-   tim_2 = Timer(2, period = 65535, prescaler = 0)
-   tim_3 = Timer(3, period = 65535, prescaler = 0)
-   ENC_Mot_A = Encoder(Pin.cpu.A0, Pin.cpu.A1, tim_2)
-   ENC_Mot_B = Encoder(Pin.cpu.B4, Pin.cpu.B5, tim_3)
-    
-
-   while True:
-        ENC_Mot_A.update()
-        ENC_Mot_B.update()
-        print("\nMotor A:\nPosition: ", ENC_Mot_A.get_position())
-        print("delta:", ENC_Mot_A.get_delta())
-        print("Motor B:\nPosition: ", ENC_Mot_B.get_position())
-        print("delta:", ENC_Mot_B.get_delta())
-        sleep_ms(1000)
      
  
