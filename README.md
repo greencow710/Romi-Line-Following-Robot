@@ -1,7 +1,7 @@
 # Romi-Line-Following-Robot
 This is a design of a line following robot designed with a STM32 based microcontroller programmed in MicroPython
 
-
+![image](https://github.com/user-attachments/assets/d2eb8f3c-d84d-4ef7-aa0f-1b8b1be1527a)
 
 ## Design
 ### Mechanical Design 
