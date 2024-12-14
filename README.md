@@ -27,11 +27,15 @@ A visual of the wiring schematic is listed in figure 3 below.
 
 ### Programming Structure
 
+
+
 ![image](https://github.com/user-attachments/assets/c8509f6c-4956-4eb4-91d6-7afce277ff25)
 
 ![image](https://github.com/user-attachments/assets/d1d154f4-f8c1-4985-979e-f74d7ea55dd8)
 
 ![image](https://github.com/user-attachments/assets/9d590a1f-e2fa-44f6-a061-40989842a2be)
+
+
 
 ![image](https://github.com/user-attachments/assets/3ce65cc0-a636-4054-9ce1-13343fd35f54)
 
