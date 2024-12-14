@@ -52,7 +52,7 @@ Included within main.py, are all of the class files for the bump sensors, line s
 
 ### Appendix B: Video Demonstration Link
 
-
+![video](https://github.com/greencow710/Romi-Line-Following-Robot/raw/refs/heads/main/Romi%20Run.mp4)
 
 
 
