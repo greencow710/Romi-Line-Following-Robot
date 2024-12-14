@@ -4,7 +4,7 @@ This is a design of a line following robot designed with a STM32 based microcont
 ## Design
 ### Mechanical Design 
 
-To allow for the optimal placement of the line and bump sensors, a romi-friendly attachment was designed and fabricated using 3d printing. 
+To allow for the optimal placement of the line and bump sensors, a romi-friendly attachment was designed and fabricated using 3D printing. 
 
 For the line sensor, we tested distances and angles with the best resolution and the least amount of noise. The line sensor is at the same distance radially from the robot as the wheels, which allows for a simple proportional yaw controller from the feedback provided by the line sensor. 
 
