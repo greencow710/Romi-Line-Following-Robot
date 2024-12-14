@@ -35,7 +35,7 @@ A visual of the wiring schematic is listed in figure 3 below.
 
 ![image](https://github.com/user-attachments/assets/9d590a1f-e2fa-44f6-a061-40989842a2be)
 
-
+![image](https://github.com/user-attachments/assets/f5b3ee0d-4e79-4a5e-aefd-d1f501b14cdb)
 
 ![image](https://github.com/user-attachments/assets/3ce65cc0-a636-4054-9ce1-13343fd35f54)
 
