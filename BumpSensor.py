@@ -20,17 +20,3 @@ class BumpSensor:
         else:
             return False
 
-
-if __name__ == '__main__':
-
-    left_sensor_pin = Pin.board.PC0
-    right_sensor_pin = Pin.board.PC1
-
-    left_sensor = BumpSensor(left_sensor_pin)
-    right_sensor = BumpSensor(right_sensor_pin)
-
-    while (True):
-        print(left_sensor.is_triggered())
-        print(right_sensor.is_triggered())
-        sleep_ms(1000)
-
