@@ -1,6 +1,8 @@
 # Romi-Line-Following-Robot
 This is a design of a line following robot designed with a STM32 based microcontroller programmed in MicroPython
 
+
+
 ## Design
 ### Mechanical Design 
 
@@ -27,7 +29,11 @@ A visual of the wiring schematic is listed in figure 3 below.
 
 ### Programming Structure
 
+The programming structure for the microcontroller main loop involves task manager based logic sharing variables between tasks and prioritizing tasks with specified period lengths for proper memory allocation. 
 
+Within these tasks are three separate finite state machines as displayed in figures 5-7 to determine, for example, sensor inputs or sending specific control outputs to the motors depending on the state. The color coordination in figure 8 is to help to give a visual of the movement states that are also color coordinated in figure 7 specifying how the robot maneuvers through the obstacle course. 
+
+Included within main.py, are all of the class files for the bump sensors, line sensor, motor drivers, encoder drivers, and the BNO055 sensor where functions are called within the task manager. 
 
 ![image](https://github.com/user-attachments/assets/c8509f6c-4956-4eb4-91d6-7afce277ff25)
 
@@ -43,5 +49,9 @@ A visual of the wiring schematic is listed in figure 3 below.
 ### Appendix A: Detailed Drawing of Sensor Array
 
 ![image](https://github.com/user-attachments/assets/b9f6d3fa-27e4-4acc-a1dc-1ba93b7508db)
+
+### Appendix B: Video Demonstration 
+
+
 
 
