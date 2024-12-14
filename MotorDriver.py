@@ -36,21 +36,4 @@ class Motor:
 
     def disable(self):
         self.ENA.low()
-
-if __name__ == '__main__':
-    
-    tim4 = Timer(4, freq=20000)
-    tim8 = Timer(8, freq=20000)
-    
-    mot_A = Motor(tim4, Pin.cpu.A4, Pin.cpu.B7, Pin.cpu.B6)
-    mot_B = Motor(tim8, Pin.cpu.B3, Pin.cpu.C7, Pin.cpu.C6)
-    
-
-    mot_A.enable()
-    mot_B.enable()
-
-    dutyCycleA = 40
-    mot_A.set_duty(dutyCycleA)
-
-    dutyCycleB = -40
-    mot_B.set_duty(dutyCycleB)
+        
